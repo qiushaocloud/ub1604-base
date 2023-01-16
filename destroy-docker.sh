@@ -1,0 +1,1 @@
+docker rm -f ub1604-base-server || true
